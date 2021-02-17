@@ -1,3 +1,5 @@
 public class Foo {
-    // empty
+    public void bar() {
+        // NO-OP
+    }
 }
